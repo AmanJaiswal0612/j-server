@@ -5,7 +5,7 @@
         "age": 22,
         "gender": "Male",
         "contact_number": 7366976067,
-        "iamge": "https://avatars.githubusercontent.com/u/98823458?v=4",
+        "image": "https://avatars.githubusercontent.com/u/98823458?v=4",
         "department": "Tech",
         "salary": 900000,
         "id": 1
@@ -15,7 +15,7 @@
         "age": 25,
         "gender": "Male",
         "contact_number": 9852502872,
-        "iamge": "https://tse4.mm.bing.net/th/id/OIP.UGlKxiZQylR3CnJIXSbFIAHaLL?pid=ImgDet&rs=1",
+        "image": "https://tse4.mm.bing.net/th/id/OIP.UGlKxiZQylR3CnJIXSbFIAHaLL?pid=ImgDet&rs=1",
         "department": "Tech",
         "salary": 1500000,
         "id": 2
