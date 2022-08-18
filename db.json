@@ -1,0 +1,14 @@
+{
+    "employees": [
+      {
+        "name": "Aman",
+        "age": 22,
+        "gender": "Male",
+        "contact_number": 7366976067,
+        "iamge": "https://avatars.githubusercontent.com/u/98823458?v=4",
+        "department": "Tech",
+        "salary": 900000,
+        "id": 1
+      }
+    ]
+  }
