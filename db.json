@@ -22,5 +22,6 @@
       }
 
     ],
-    "user":[{"id":1,"name":"ravan","email":"ravan0612@gmail.com","password":"ravan0612"}]
+    "user":[{"id":1,"name":"ravan","email":"ravan0612@gmail.com","password":"ravan0612"}],
+    "posts":[{"id":1,"text":"hello","gif":"https://media0.giphy.com/media/E1w0yvMxBIv5M8WkL8/200.gif?cid=75ea51269vletc246dccsumzfyxapfcbs1osolal6ojmiyjq&rid=200.gif&ct=g"}]
   }
